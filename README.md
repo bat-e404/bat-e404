@@ -1,5 +1,6 @@
 ### Hi, I'm Bryan 💻
-![imgggg](https://user-images.githubusercontent.com/64910219/116794830-ce203b80-aa95-11eb-81f9-374cfe7b0171.gif)
+![imggggggggg](https://user-images.githubusercontent.com/64910219/116794848-e3956580-aa95-11eb-817e-a4b75e9d1ed9.png)
+
 
 
 <!--
