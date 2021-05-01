@@ -1,4 +1,4 @@
-### Hi, I'm Bryan Aguirre Tudon and i'm a programmer. 💻💾
+### Hi, I'm Bryan 💻
 
 <!--
 **bat-e404/bat-e404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
