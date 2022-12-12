@@ -1,7 +1,7 @@
-### Hi, I'm Bryan 💻
 ![imggggggggg](https://user-images.githubusercontent.com/64910219/116794848-e3956580-aa95-11eb-817e-a4b75e9d1ed9.png)
+# Hello, I'm Bryan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?bat-e404=anuraghazra&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bat-e404&show_icons=true&theme=tokyonight)
 
 <!--
 **bat-e404/bat-e404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
