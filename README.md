@@ -1,5 +1,5 @@
 ![imggggggggg](https://user-images.githubusercontent.com/64910219/116794848-e3956580-aa95-11eb-817e-a4b75e9d1ed9.png)
-<h1 align="center">Hi 💻, I'm Bryan</h1>
+<h1 align="center">Hi 👋, I'm Bryan</h1>
 <h3 align="center">A passionate is programing, i'm developer from Mexico</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bat-e404" alt="bat-e404" /></a> </p>
