@@ -4,8 +4,6 @@
 
 <h3 align="center">A passionate is programing, i'm developer from Mexico</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bat-e404" alt="bat-e404" /></a> </p>
-
 - 🔭 I’m currently working on **Jelp**
 
 - 🌱 I’m currently learning **Next.js/develm and Cloud Computing**
