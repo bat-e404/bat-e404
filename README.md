@@ -59,10 +59,11 @@ Here’s a little glimpse into my GitHub activity:
 
 ---
 
-### 🔝 Top Contributed Repo:
+## 🔝 Top Contributed Repo:
 <p align="center">
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=bat-e404&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+  <img src="https://github-contributor-stats.vercel.app/api?username=bat-e404&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="Top Repos" />
 </p>
+
 ---
 
 ## 🔗 Visitors:
