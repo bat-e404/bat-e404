@@ -46,9 +46,11 @@ Here are some of the technologies I work with:
 ## 📉 GitHub Stats:
 Here’s a little glimpse into my GitHub activity:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bat-e404&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bat-e404&theme=dracula&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bat-e404&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bat-e404&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bat-e404&theme=dracula&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bat-e404&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</p>
 
 ---
 
