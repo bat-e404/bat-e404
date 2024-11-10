@@ -20,12 +20,7 @@ Welcome to my GitHub profile! I'm Bryan, a software developer with a love for cr
 - **LinkedIn**: [Bryan Aguirre Tudón](https://www.linkedin.com/in/bryan-aguirre-tudon-055316252/)
 - **Twitter**: [@bryan_tudon](https://twitter.com/bryan_tudon)
 
----
 
-### ⚡ Fun fact:
-- I know **H.T.M.L** (How To Meet Ladies) 😆
-
----
 
 ## ​🌎 Socials:
 <p align="left">
