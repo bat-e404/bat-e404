@@ -18,7 +18,6 @@ Welcome to my GitHub profile! I'm Bryan, a software developer with a love for cr
 ## 📫 Get in touch
 - **Email**: [bryan_tudon@outlook.com](mailto:bryan_tudon@outlook.com)
 - **LinkedIn**: [Bryan Aguirre Tudón](https://www.linkedin.com/in/bryan-aguirre-tudon-055316252/)
-- **Twitter**: [@bryan_tudon](https://twitter.com/bryan_tudon)
 
 
 
