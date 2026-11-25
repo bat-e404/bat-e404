@@ -1,0 +1,30 @@
+{
+  "title": "Full Stack Skill Radar",
+  "_comment": "Self-rated, 0-100. Edit these and the Charts workflow redraws the radar.",
+  "axes": [
+    {
+      "label": "Backend & APIs (Laravel/FastAPI)",
+      "value": 90
+    },
+    {
+      "label": "Frontend (React/Next.js)",
+      "value": 85
+    },
+    {
+      "label": "Databases (MySQL/PostgreSQL)",
+      "value": 85
+    },
+    {
+      "label": "AI & Agents (LLMs/MCP)",
+      "value": 82
+    },
+    {
+      "label": "Automation (n8n/Python)",
+      "value": 80
+    },
+    {
+      "label": "Deploy & Servers",
+      "value": 72
+    }
+  ]
+}

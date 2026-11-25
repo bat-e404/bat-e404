@@ -1,0 +1,30 @@
+{
+  "title": "Full Stack Language Stack",
+  "_comment": "Values 0-100. Edit these and the Charts workflow redraws it.",
+  "axes": [
+    {
+      "label": "PHP (Laravel)",
+      "value": 90
+    },
+    {
+      "label": "JavaScript/TypeScript",
+      "value": 88
+    },
+    {
+      "label": "Python",
+      "value": 85
+    },
+    {
+      "label": "SQL",
+      "value": 85
+    },
+    {
+      "label": "Bash/Shell",
+      "value": 70
+    },
+    {
+      "label": "YAML",
+      "value": 65
+    }
+  ]
+}
